@@ -18,15 +18,15 @@ Boston House Prices Dataset was collected in 1978 and has 506 entries with 14 at
         - LSTAT    % lower status of the population
         - MEDV     Median value of owner-occupied homes in $1000's
 
-# Libraries
-  pandas
-  matplotlib
-  seaborn
-  scikit-learn
+# Libraries:
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
 
-# Algorithms
-  Linear Regression
-  Decision Tree
-  Random Forest
-  Extra Tress
-  XGBoost
+# Algorithms:
+  - Linear Regression
+  - Decision Tree
+  - Random Forest
+  - Extra Tress
+  - XGBoost
